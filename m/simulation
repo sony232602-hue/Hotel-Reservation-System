@@ -1,0 +1,45 @@
+===== HOTEL RESERVATION SYSTEM =====
+
+1. View Available Rooms
+2. Book Room
+3. View Reservation
+4. Cancel Reservation
+5. Exit
+
+Enter your choice: 1
+
+===== AVAILABLE ROOMS =====
+Room 101 | Single | ₹1500
+Room 102 | Double | ₹2000
+Room 103 | Deluxe | ₹2500
+
+
+Enter your choice: 2
+
+Enter Customer Name: Rahul
+Enter Phone Number: 9876543210
+Enter Room Number: 101
+Enter Number of Days: 3
+
+Room booked successfully!
+
+
+Enter your choice: 3
+
+===== RESERVATION DETAILS =====
+Customer Name : Rahul
+Phone         : 9876543210
+Room Number   : 101
+Room Type     : Single
+Days          : 3
+Total Amount  : ₹4500
+
+
+Enter your choice: 4
+
+Reservation cancelled successfully!
+
+
+Enter your choice: 5
+
+Thank you for using Hotel Reservation System!
